@@ -50,7 +50,7 @@ Would a 15-minute call next week be useful? If not, tell me and I won't follow u
 [Your name], Grofital Consulting LLP, [postal address], [opt-out line]
 
 ## LinkedIn note (draft)
-Hi Kyle, I help warehouse and 3PL teams with margin analytics and fractional CFO support. I saw: Opened/consolidated into a 350. Would be good to connect.
+Hi Kyle, I help warehouse and 3PL teams with margin analytics and fractional CFO support. I saw: Opened/consolidated into a 350,000 sq ft Oklahoma City facility. Would be good to connect.
 
 ## Follow-up 1 (3 days later)
 Short bump: one sentence restating the offer and a link to a sample KPI dashboard, if you have one. No new claims.
